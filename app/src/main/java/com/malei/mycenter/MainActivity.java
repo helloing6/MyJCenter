@@ -12,4 +12,9 @@ public class MainActivity extends AppCompatActivity {
 
         //ml 6.4.1.2
     }
+
+
+    public void get(){
+        //test写
+    }
 }
