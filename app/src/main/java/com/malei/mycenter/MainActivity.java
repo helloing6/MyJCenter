@@ -10,7 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-        //ml 6.2
+        //ml 6.3
     }
 }
