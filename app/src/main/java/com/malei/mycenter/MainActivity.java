@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
         //100
         //200
         //300
-        //400
     }
 
 
